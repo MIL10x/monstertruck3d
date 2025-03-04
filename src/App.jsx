@@ -159,7 +159,7 @@ function App() {
           Reset
         </button>
         <a
-          href="https://github.com/MIL10x"
+          href="https://github.com/MIL10x/monstertruck3d"
           target="blank"
           className="text-white hover:text-2xl transition-all duration-300"
         >
